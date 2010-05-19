@@ -1,98 +1,0 @@
-Tv1dtimi1
-v7
-r0
-t295894198.436818
-cCheck dependencies
-cCompileC build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/main.o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cLd /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug/v1dtimi1 normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004B25729E00000000000000EE
-t1260745374
-s238
-
-N/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp
-c000000004BF2C52600000000000002FD
-t1274201382
-s765
-i"Date.h"
-
-N/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.h
-c000000004BF2C50700000000000002C0
-t1274201351
-s704
-
-N/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug/v1dtimi1
-t2
-s0
-
-N/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o
-t1274201397
-s3784
-
-N/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date.o
-t2
-s0
-
-N/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/main.o
-t1274201397
-s67016
-
-N/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/v1dtimi1.LinkFileList
-c000000004BF2C5350000000000000199
-t1274201397
-s409
-
-N/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/main.cpp
-c000000004BF2C46A0000000000000085
-t1274201194
-s133
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies295894197#295894197#0(0"0(0#1#0"7947009927035180032#0"0#
-
-CCompileC build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s295894197.503235
-e295894197.531679
-r1
-xCompileC
-xbuild/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o
-x/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@70"Compile /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp295894197#295894197#0(0"0(0#0#62"/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp4300911832#1491"    cd /Users/davidhalldor/Documents/xcode_projects/v1dtimi1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/v1dtimi1-generated-files.hmap -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/v1dtimi1-own-target-headers.hmap -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/v1dtimi1-all-target-headers.hmap -iquote /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/v1dtimi1-project-headers.hmap -F/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug/include -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/DerivedSources/x86_64 -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/DerivedSources -c /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp -o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o0#
-
-CCompileC build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date.o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/Date.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/main.o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s295894197.085171
-e295894197.894521
-r1
-xCompileC
-xbuild/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/main.o
-x/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@70"Compile /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/main.cpp295894197#295894197#0(0"0(0#0#62"/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/main.cpp7886488416478786560#1474"    cd /Users/davidhalldor/Documents/xcode_projects/v1dtimi1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/v1dtimi1-generated-files.hmap -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/v1dtimi1-own-target-headers.hmap -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/v1dtimi1-all-target-headers.hmap -iquote /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/v1dtimi1-project-headers.hmap -F/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug/include -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/DerivedSources/x86_64 -I/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/DerivedSources -c /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/main.cpp -o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/main.o0#
-
-CLd /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug/v1dtimi1 normal x86_64
-s295894197.894620
-e295894198.436753
-r0
-xLd
-x/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug/v1dtimi1
-xnormal
-xx86_64
-old: duplicate symbol Date::Date(Date const&)in /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o and /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o
-ocollect2: ld returned 1 exit status
-lSLF07#2@79"Link /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug/v1dtimi1295894197#295894198#0(430"ld: duplicate symbol Date::Date(Date const&)in /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o and /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.ocollect2: ld returned 1 exit statusCommand /Developer/usr/bin/g++-4.2 failed with exit code 12(13@330"Duplicate symbol Date::Date(Date const&)in /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o and /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/Date-A0B3E33BE8249AA1.o295894198#0#335#0(6@0"295894198#0#0#0#0#0"0(4@58"Command /Developer/usr/bin/g++-4.2 failed with exit code 1295894198#18446744073709551615#0#0(1@0"0(0#0#0"4300911832#577"    cd /Users/davidhalldor/Documents/xcode_projects/v1dtimi1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug -F/Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug -filelist /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/v1dtimi1.build/Debug/v1dtimi1.build/Objects-normal/x86_64/v1dtimi1.LinkFileList -mmacosx-version-min=10.6 -o /Users/davidhalldor/Documents/xcode_projects/v1dtimi1/build/Debug/v1dtimi11#
-
