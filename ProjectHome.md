@@ -1,0 +1,1 @@
+Ýmiss verkefni sem tengjast þessum áfanga
